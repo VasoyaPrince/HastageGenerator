@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073627146931",
+    "project_id": "wmb-hashtag-generator",
+    "storage_bucket": "wmb-hashtag-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073627146931:android:a4dc3693322aaf00449ec6",
+        "android_client_info": {
+          "package_name": "wimble.hashtag.hashtagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073627146931-tkodrvl4gpeo2i5dcnod0jtnld5d2gmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI_kkiH1E9DCiXHQ5i367Y8sSfE4e0iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073627146931-tkodrvl4gpeo2i5dcnod0jtnld5d2gmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
